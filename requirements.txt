@@ -1,0 +1,10 @@
+gnureadline==6.3.3
+ipython==2.4.1
+numpy==1.9.1
+pandas==0.15.2
+python-dateutil==2.4.0
+pytz==2014.10
+rpy2==2.5.6
+scipy==0.15.1
+six==1.9.0
+snakemake==3.2.1
